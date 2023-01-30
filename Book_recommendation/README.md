@@ -7,7 +7,7 @@ A Machine Learning Project that makes the use of KNN and similarity_cosines to r
 1.Book Recommendation - Contains the actual Recommender System.
 2.Datsets
 
-#Tools Used
+# Tools Used
 
 pandas,numpy
  
