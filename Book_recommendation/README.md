@@ -29,5 +29,6 @@ The objective of this Recommender system was to Recommend Books to the user who 
 
 5.We also make a system using Cosine_similarity which also recommend books which are closer to that point.
 
-#Results
+# Results
+
 The System actually makes some decent recommendations based on the inputs.
